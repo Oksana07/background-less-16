@@ -1,0 +1,44 @@
+html{
+  font-size: 1dvw;
+}
+
+body{
+  /* 72px */
+  font-size: 2rem;
+}
+
+button{
+  color: brown;
+  background-color: burlywood;
+
+  font-size: 1em;
+  padding: 50px;
+  border-radius: 50%;
+
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+p{
+  width: 50%;
+
+  margin-bottom: 50px;
+}
+
+strong{
+font-size: 150%;
+}
+
+h1{
+
+  /* 72 * 2 = 36 */
+  font-size: 2em; 
+
+  /* font-size: 72px; */
+}
+
+h2{
+  font-size: 1.50em;
+
+  /* font-size: 30px; */
+}
